@@ -1,0 +1,1 @@
+mevalar = ["olma", 'anor', 'uzum']

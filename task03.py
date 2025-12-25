@@ -1,0 +1,1 @@
+infos = ["ulug'bek", "zuhriddin", "laziz", [13, 23, 56]]
